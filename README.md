@@ -139,6 +139,9 @@ On the other hand, the <span style="background-color: #D3D3D3"><b>Full analytica
 - Detailed description of the method can be found [here](https://shaarp.readthedocs.io/en/latest/methods/)  
 - Some specific cases can be found [here](https://shaarp.readthedocs.io/en/latest/examples/)  
 
+## Acknowledgements
+- The development of this software was supported as part of the Computational Materials Sciences Program funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences, under Award No. DE-SC0020145.
+
 ## References
 1. Denev, S. A., Lummen, T. T. A., Barnes, E., Kumar, A. & Gopalan, V. Probing Ferroelectrics Using Optical Second Harmonic Generation. _Journal of the American Ceramic Society_ **94**, 2699–2727 (2011).
 2. Boyd, R. W. & Prato, D. Nonlinear Optics. (Academic Press, 2008).
